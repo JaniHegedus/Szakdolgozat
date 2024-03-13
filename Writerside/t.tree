@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="t"
+                 name="Tartalom"
+                 start-page="Bevezetés.md">
+
+    <toc-element topic="Előszó.md"/>
+    <toc-element topic="Bevezetés.md">
+    </toc-element>
+    <toc-element topic="A-projekt-összefoglalása.md"/>
+    <toc-element topic="Háttér-és-motiváció.md"/>
+    <toc-element topic="Elméleti-alapok.md"/>
+    <toc-element topic="Technológiai-áttekintés.md"/>
+    <toc-element topic="A-projekt-tervezése.md"/>
+    <toc-element topic="Implementáció.md"/>
+    <toc-element topic="Tesztelés-és-értékelés.md"/>
+    <toc-element topic="Eredmények-következtetések-és-továbbfejlesztési-lehetőségek.md"/>
+    <toc-element topic="Összefoglalás.md"/>
+</instance-profile>
